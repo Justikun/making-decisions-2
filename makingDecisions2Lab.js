@@ -102,6 +102,9 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
+console.log("Problem 6")
+let someNum = myFavoriteNumbers[4]
+console.log(someNum)
 
 
 ////////// PROBLEM 7 //////////
